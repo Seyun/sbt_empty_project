@@ -8,4 +8,4 @@ resolvers += "Scala-Tools Nexus Repository for Releases" at "https://oss.sonatyp
 
 resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
 
-libraryDependencies += "com.ning" % "async-http-client" % "1.7.5"
+libraryDependencies += "com.ning" % "async-http-client" % "1.7.6"
